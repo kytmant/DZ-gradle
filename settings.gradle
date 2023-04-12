@@ -1,0 +1,5 @@
+rootProject.name = 'DZ_gradle'
+include 'db'
+include 'service'
+include 'api'
+
